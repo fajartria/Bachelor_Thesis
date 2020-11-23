@@ -1,2 +1,3 @@
 # Bachelor_Thesis
-My Bachelor's Degree Repository 
+
+This is my Bachelor Thesis Repository, repository contains Python code and my bachelor thesis paper.
